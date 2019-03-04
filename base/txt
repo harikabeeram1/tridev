@@ -1,0 +1,5 @@
+please find the basic git
+git --version
+git status
+git init
+git branch
